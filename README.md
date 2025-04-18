@@ -62,3 +62,17 @@ To observe how location affects web content, several sites were tested:
 - [https://www.disney.com](https://www.disney.com)
 
 Regional differences were noted in areas such as language, localized product offerings, and automatic domain redirection.
+
+---
+
+## Skills and Experience Gained
+
+This lab provides practical insight into how VPNs affect network behavior and user experience. Key takeaways include:
+
+- Understanding how **public IP addresses** change across different network contexts: local device, Azure VM, and VPN  
+- Using **IP geolocation tools** to verify location changes and confirm VPN effectiveness  
+- Installing and configuring a VPN client (ProtonVPN) within a virtualized Windows environment  
+- Observing the impact of regional IP addresses on **web content localization**, such as search results, default languages, and regional product availability  
+- Using **Remote Desktop Protocol (RDP)** to access and manage remote infrastructure securely  
+
+These skills are essential for professionals working in IT, cybersecurity, and cloud networking, especially in roles involving privacy, geolocation, or remote access solutions.
