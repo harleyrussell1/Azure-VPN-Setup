@@ -4,6 +4,15 @@ Overview
 
 This lab demonstrates how VPN usage can alter public IP addresses and influence regional web content. A Windows 10 virtual machine was deployed in Azure, connected to ProtonVPN, and tested for geolocation-based changes in web browsing.
 
+## Technologies Used
+
+- Microsoft Azure (Resource Groups, Virtual Machines)
+- Windows 10 Virtual Machine
+- Remote Desktop Protocol (RDP)
+- ProtonVPN (client and service)
+- IP Geolocation Verification (whatismyipaddress.com)
+- Web Proxy & Regional Behavior Testing (Google, Amazon, etc.)
+
 1. Initial IP Address Logging
 
 Started by recording the public IP address of the local machine:
