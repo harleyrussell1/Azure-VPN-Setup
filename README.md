@@ -13,6 +13,7 @@ This lab demonstrates how VPN usage can alter public IP addresses and influence 
 - IP Geolocation Verification (whatismyipaddress.com)
 - Web Proxy & Regional Behavior Testing (Google, Amazon, etc.)
 
+
 1. Initial IP Address Logging
 
 Started by recording the public IP address of the local machine:
