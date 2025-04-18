@@ -1,6 +1,6 @@
-VPN Lab: Testing VPN Behavior with Azure VM and ProtonVPN
+# VPN Lab: Testing VPN Behavior with Azure VM and ProtonVPN
 
-Overview
+## Overview
 
 This lab demonstrates how VPN usage can alter public IP addresses and influence regional web content. A Windows 10 virtual machine was deployed in Azure, connected to ProtonVPN, and tested for geolocation-based changes in web browsing.
 
@@ -13,15 +13,18 @@ This lab demonstrates how VPN usage can alter public IP addresses and influence 
 - IP Geolocation Verification (whatismyipaddress.com)
 - Web Proxy & Regional Behavior Testing (Google, Amazon, etc.)
 
+---
 
-1. Initial IP Address Logging
+## 1. Initial IP Address Logging
 
 Started by recording the public IP address of the local machine:
 
 - Navigated to [https://whatismyipaddress.com/](https://whatismyipaddress.com/)
 - Saved the displayed IP for reference later in the lab
 
-2. Azure Virtual Machine Deployment
+---
+
+## 2. Azure Virtual Machine Deployment
 
 Provisioned a Windows 10 virtual machine in Azure, selecting a geographic region outside of the local area:
 
@@ -34,7 +37,9 @@ Once inside the VM:
 - Visited [https://whatismyipaddress.com/](https://whatismyipaddress.com/) to capture the VM’s public IP
 - Logged this second IP address to compare against later VPN testing
 
-3. ProtonVPN Installation and VPN Testing
+---
+
+## 3. ProtonVPN Installation and VPN Testing
 
 Signed up for a free ProtonVPN account using the official website:
 
