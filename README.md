@@ -76,3 +76,7 @@ This lab provides practical insight into how VPNs affect network behavior and us
 - Using **Remote Desktop Protocol (RDP)** to access and manage remote infrastructure securely  
 
 These skills are essential for professionals working in IT, cybersecurity, and cloud networking, especially in roles involving privacy, geolocation, or remote access solutions.
+
+## Screenshots
+
+All screenshots for this lab can be found in the [screenshots](./screenshots) folder.
